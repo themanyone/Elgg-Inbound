@@ -1,7 +1,7 @@
 <?php
 /* @title Inbound Wire and Bookmarks
  * @description Share to thewire or bookmarks via URL query ?u=http://...
- * @copyright (C) 2019 Henry Kroll www.thenerdshow.com
+ * @copyright (C) 2019 Henry Kroll III www.thenerdshow.com
  * @license GPL2
  */
 elgg_register_plugin_hook_handler('view', 'forms/thewire/add', 'inbound_thewire');
